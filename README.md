@@ -3,3 +3,5 @@ Código utilizado para diferentes gráficas y simulaciones en el teorema de Thom
 Integrante: 
 Sara Valentina Guerrero Espinosa. 
 Jennifer Alejandra Montoya Peñuela.
+
+Puto el que lo lea
